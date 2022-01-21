@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+otter-grader
+wkhtmltopdf
+PyPDF2
+pdfkit
